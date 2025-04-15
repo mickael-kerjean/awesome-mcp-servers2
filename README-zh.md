@@ -297,6 +297,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 提供对本地文件系统的直接访问，并具有可配置的权限。使 AI 模型能够读取、写入和管理指定目录中的文件。
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp) 🎖️ 🏎️ ☁️ - 远程存储访问：SFTP、S3、FTP、SMB、NFS、WebDAV、GIT、FTPS、gcloud、azure blob、sharepoint 等…
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - 直接访问本地文件系统。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive 集成，用于列出、阅读和搜索文件
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - Box 集成，支持文件列表、阅读和搜索功能
